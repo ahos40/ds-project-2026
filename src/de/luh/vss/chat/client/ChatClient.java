@@ -13,6 +13,9 @@ public class ChatClient {
 	}
 
 	public void start() throws IOException {
+		System.out.println("Congratulation for successfully setting up your environment for Distributed Systems Exercises!\n");
+		// Use your own user ID (ErgebnisPIN) exclusively to initiate and pass the tests; otherwise the actions will be performed for a different user.
+
 		// implement your chat client logic here
 	}
 
